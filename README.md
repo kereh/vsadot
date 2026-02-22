@@ -2,13 +2,21 @@
 
 Personal VS Code settings for a minimal, distraction-free editing environment.
 
+## Preview
+
+![Welcome page](assets/blank_welcome_page.png)
+
+![Editor](assets/code.png)
+
+![File finder](assets/file_finder.png)
+
 ## Overview
 
 This repository contains a curated `settings.json` that strips VS Code down to its essentials, removing visual clutter and UI chrome to keep focus on the code.
 
 ## Credits
 
-A large portion of this configuration is based on Igor Babko's VS Code setup, presented in [this video](https://www.youtube.com/watch?v=VmFOsK7IhI4&t=642s). The original settings file is available on [GitHub](https://github.com/igorbabko/vscode-setup/blob/2025/.vscode/settings.json). This repo takes that foundation and tweaks it to fit a different workflow and toolchain.
+A large portion of this configuration is based on Igor Babko's VS Code setup, presented in [this video](https://www.youtube.com/watch?v=VmFOsK7IhI4). The original settings file is available on [GitHub](https://github.com/igorbabko/vscode-setup/blob/2025/.vscode/settings.json). This repo takes that foundation and tweaks it to fit a different workflow and toolchain.
 
 ## Differences from Original
 
